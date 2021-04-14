@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "llist.h": "c",
+        "ios": "c",
+        "__locale": "c"
+    }
+}
